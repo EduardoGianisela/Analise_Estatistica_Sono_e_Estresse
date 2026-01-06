@@ -1,5 +1,7 @@
 # Análise Estatística: Saúde do Sono e Estresse (Care Plus)
 
+Este projeto foi desenvolvido no âmbito acadêmico (Curso de Ciência da Computação - FIAP), com o objetivo de aplicar conceitos de Engenharia de Software e Estatística em um cenário real de Saúde Corporativa (Case Care Plus).
+
 Este projeto foi desenvolvido como parte de uma iniciativa de **Saúde 4.0**, utilizando técnicas de análise exploratória de dados para identificar padrões de comportamento e saúde.
 
 ## Principais Descobertas
